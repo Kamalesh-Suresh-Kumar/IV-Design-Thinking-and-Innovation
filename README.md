@@ -105,6 +105,6 @@ uvicorn app:app --reload
 - [x] Live Syncing of Monthly Repayment milestones.
 
 ## Authors
-- Kamalesh S P
 - Kaif Rehman S T
+- Kamalesh S P
 - Prithiviraaj C
