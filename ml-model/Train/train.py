@@ -38,7 +38,7 @@ def evaluate_model(name, y_test, y_pred, y_proba):
 # =========================
 # MAIN FUNCTION
 # =========================
-def train_and_save_models(data_filepath='loan_data.csv', models_dir='trained_models/', threshold=0.5):
+def train_and_save_models(data_filepath='loan_data.csv', models_dir='ml-model/trained_models/', threshold=0.5):
 
     # LOAD DATA
     try:

@@ -6,7 +6,7 @@ import warnings
 
 warnings.filterwarnings('ignore')
 
-MODELS_DIR = 'trained_models/'
+MODELS_DIR = 'ml-model/trained_models/'
 ASSET_PATH = os.path.join(MODELS_DIR, 'all_loan_prediction_assets.pkl')
 
 
